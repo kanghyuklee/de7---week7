@@ -7,3 +7,9 @@
 - Apache Airflow
 - Apache Spark
 - AWS S3
+
+## 실습 환경
+Docker Desktop 위에서 Airflow와 Spark를 구성하였습니다.
+
+## 회고
+이번 주차에서 Docker와 Airflow의 기초를 학습하였습니다.
