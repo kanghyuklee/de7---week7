@@ -9,7 +9,7 @@
 - AWS S3
 
 ## 실습 환경
-WSL 2 기반 Docker Desktop과 PowerShell 환경에서 진행하였습니다.
+Windows 10 + WSL 2 기반 Docker Desktop과 VS Code / PowerShell에서 진행하였습니다.
 
 ## 회고
-S3와 Spark 연동 파이프라인 구축 과정이 인상적이었습니다.
+S3와 Spark 연동 파이프라인을 구축하며 컨테이너 오케스트레이션과 워크플로 자동화를 경험하였습니다.
