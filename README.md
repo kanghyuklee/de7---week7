@@ -9,7 +9,7 @@
 - AWS S3
 
 ## 실습 환경
-Docker Desktop 위에서 Airflow와 Spark를 구성하였습니다.
+WSL 2 기반 Docker Desktop과 PowerShell 환경에서 진행하였습니다.
 
 ## 회고
-이번 주차에서 Docker와 Airflow의 기초를 학습하였습니다.
+S3와 Spark 연동 파이프라인 구축 과정이 인상적이었습니다.
