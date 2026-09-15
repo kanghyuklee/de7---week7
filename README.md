@@ -9,7 +9,7 @@
 - AWS S3
 
 ## 실습 환경
-Docker Desktop 위에서 Airflow와 Spark를 구성하였습니다.
+Windows 10 + Docker Desktop + VS Code 터미널에서 실습하였습니다.
 
 ## 회고
-이번 주차에서 Docker와 Airflow의 기초를 학습하였습니다.
+컨테이너 오케스트레이션과 워크플로 자동화를 직접 경험하였습니다.
